@@ -140,19 +140,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    font-size: 20px;
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    font-size: 20px;
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+.benefit h3 {
     font-size: 20px;
     margin-bottom: 32px;
     color: #ffffff;

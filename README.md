@@ -16,7 +16,7 @@ Removing the HTML that was repeated and removed the id properties.
 Double checking the tags for CSS which correspond with the HTML.
 Making the CSS more streamlined with the HTML.
 
-[](assets/images/mod1.png)
+![](assets/images/mod1.png)
 
 To view the deployed website please follow the link below.
 https://irivera2116.github.io/MSU_Challenge_1/
